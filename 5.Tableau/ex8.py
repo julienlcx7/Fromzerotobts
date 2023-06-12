@@ -1,0 +1,1 @@
+#Écrivez une fonction qui prend en paramètre un tableau de nombres et retourne la moyenne de tous les éléments du tableau.

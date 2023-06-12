@@ -1,0 +1,1 @@
+#Construire une fonction identiques qui retourne VRAI si les deux valeurs entres en parametres sont identiques et FAUX sinon.

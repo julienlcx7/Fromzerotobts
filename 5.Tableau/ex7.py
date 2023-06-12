@@ -1,0 +1,2 @@
+#Vous devez créer un algorithme qui permet de trouver et d'afficher le nombre maximum dans un tableau de nombres saisi par l'utilisateur. 
+#L'algorithme doit demander à l'utilisateur de saisir les éléments du tableau, puis trouver le nombre maximum et l'afficher.

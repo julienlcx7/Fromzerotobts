@@ -1,0 +1,1 @@
+#Écrivez une fonction appelée multiplicateur qui prend en paramètre un nombre et retourne le resultat de ce nombre mutiplié par 2.

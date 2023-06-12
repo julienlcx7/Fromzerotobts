@@ -1,0 +1,1 @@
+#Exercice de calcul du carré d'un nombre : Demandez à l'utilisateur d'entrer un nombre, puis calculez et affichez son carré.
